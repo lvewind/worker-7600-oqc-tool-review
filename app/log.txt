@@ -1,0 +1,84 @@
+2021-03-18 20:55:09,454 - DEBUG - db create_table success
+2021-03-18 20:55:09,501 - DEBUG - db create_table success
+2021-03-18 20:55:09,564 - DEBUG - db create_table success
+2021-03-18 20:55:09,642 - DEBUG - db create_table success
+2021-03-23 17:50:04,841 - DEBUG - db create_table success
+2021-03-23 17:50:04,950 - DEBUG - db create_table success
+2021-03-23 17:50:05,122 - DEBUG - db create_table success
+2021-03-23 17:50:05,262 - DEBUG - db create_table success
+2021-03-23 17:50:55,951 - DEBUG - table oqc_products_list already exists
+2021-03-23 17:50:55,951 - DEBUG - table oqc_test_result already exists
+2021-03-23 17:50:55,951 - DEBUG - table oqc_user already exists
+2021-03-23 17:50:55,951 - DEBUG - table oqc_setting already exists
+2021-03-23 17:51:06,432 - DEBUG - table oqc_products_list already exists
+2021-03-23 17:51:06,432 - DEBUG - table oqc_test_result already exists
+2021-03-23 17:51:06,432 - DEBUG - table oqc_user already exists
+2021-03-23 17:51:06,432 - DEBUG - table oqc_setting already exists
+2021-03-23 17:51:27,396 - DEBUG - table oqc_products_list already exists
+2021-03-23 17:51:27,396 - DEBUG - table oqc_test_result already exists
+2021-03-23 17:51:27,396 - DEBUG - table oqc_user already exists
+2021-03-23 17:51:27,396 - DEBUG - table oqc_setting already exists
+2021-03-23 17:52:21,836 - DEBUG - table oqc_products_list already exists
+2021-03-23 17:52:21,836 - DEBUG - table oqc_test_result already exists
+2021-03-23 17:52:21,836 - DEBUG - table oqc_user already exists
+2021-03-23 17:52:21,836 - DEBUG - table oqc_setting already exists
+2021-03-23 17:53:08,823 - DEBUG - table oqc_products_list already exists
+2021-03-23 17:53:08,823 - DEBUG - table oqc_test_result already exists
+2021-03-23 17:53:08,823 - DEBUG - table oqc_user already exists
+2021-03-23 17:53:08,823 - DEBUG - table oqc_setting already exists
+2021-03-23 18:00:55,755 - DEBUG - table oqc_products_list already exists
+2021-03-23 18:00:55,755 - DEBUG - table oqc_test_result already exists
+2021-03-23 18:00:55,755 - DEBUG - table oqc_user already exists
+2021-03-23 18:00:55,755 - DEBUG - table oqc_setting already exists
+2021-03-23 18:01:11,120 - DEBUG - table oqc_products_list already exists
+2021-03-23 18:01:11,120 - DEBUG - table oqc_test_result already exists
+2021-03-23 18:01:11,120 - DEBUG - table oqc_user already exists
+2021-03-23 18:01:11,120 - DEBUG - table oqc_setting already exists
+2021-03-23 18:02:03,311 - DEBUG - table oqc_products_list already exists
+2021-03-23 18:02:03,311 - DEBUG - table oqc_test_result already exists
+2021-03-23 18:02:03,311 - DEBUG - table oqc_user already exists
+2021-03-23 18:02:03,311 - DEBUG - table oqc_setting already exists
+2021-03-23 18:02:56,543 - DEBUG - table oqc_products_list already exists
+2021-03-23 18:02:56,543 - DEBUG - table oqc_test_result already exists
+2021-03-23 18:02:56,543 - DEBUG - table oqc_user already exists
+2021-03-23 18:02:56,543 - DEBUG - table oqc_setting already exists
+2021-03-23 18:03:46,695 - DEBUG - table oqc_products_list already exists
+2021-03-23 18:03:46,695 - DEBUG - table oqc_test_result already exists
+2021-03-23 18:03:46,695 - DEBUG - table oqc_user already exists
+2021-03-23 18:03:46,695 - DEBUG - table oqc_setting already exists
+2021-03-23 18:03:53,305 - DEBUG - table oqc_products_list already exists
+2021-03-23 18:03:53,305 - DEBUG - table oqc_test_result already exists
+2021-03-23 18:03:53,305 - DEBUG - table oqc_user already exists
+2021-03-23 18:03:53,305 - DEBUG - table oqc_setting already exists
+2021-03-23 18:11:51,667 - DEBUG - table oqc_products_list already exists
+2021-03-23 18:11:51,667 - DEBUG - table oqc_test_result already exists
+2021-03-23 18:11:51,667 - DEBUG - table oqc_user already exists
+2021-03-23 18:11:51,667 - DEBUG - table oqc_setting already exists
+2021-03-23 18:12:15,121 - DEBUG - table oqc_products_list already exists
+2021-03-23 18:12:15,121 - DEBUG - table oqc_test_result already exists
+2021-03-23 18:12:15,121 - DEBUG - table oqc_user already exists
+2021-03-23 18:12:15,121 - DEBUG - table oqc_setting already exists
+2021-03-23 18:15:33,921 - DEBUG - table oqc_products_list already exists
+2021-03-23 18:15:33,921 - DEBUG - table oqc_test_result already exists
+2021-03-23 18:15:33,921 - DEBUG - table oqc_user already exists
+2021-03-23 18:15:33,921 - DEBUG - table oqc_setting already exists
+2021-03-23 20:52:01,538 - DEBUG - db create_table success
+2021-03-23 20:52:01,663 - DEBUG - db create_table success
+2021-03-23 20:52:01,788 - DEBUG - db create_table success
+2021-03-23 20:52:01,913 - DEBUG - db create_table success
+2021-03-23 20:55:25,332 - DEBUG - table oqc_products_list already exists
+2021-03-23 20:55:25,332 - DEBUG - table oqc_test_result already exists
+2021-03-23 20:55:25,332 - DEBUG - table oqc_user already exists
+2021-03-23 20:55:25,332 - DEBUG - table oqc_setting already exists
+2021-03-23 20:55:49,591 - DEBUG - table oqc_products_list already exists
+2021-03-23 20:55:49,591 - DEBUG - table oqc_test_result already exists
+2021-03-23 20:55:49,591 - DEBUG - table oqc_user already exists
+2021-03-23 20:55:49,591 - DEBUG - table oqc_setting already exists
+2021-03-23 20:56:53,807 - DEBUG - table oqc_products_list already exists
+2021-03-23 20:56:53,807 - DEBUG - table oqc_test_result already exists
+2021-03-23 20:56:53,807 - DEBUG - table oqc_user already exists
+2021-03-23 20:56:53,807 - DEBUG - table oqc_setting already exists
+2021-03-23 20:57:10,356 - DEBUG - table oqc_products_list already exists
+2021-03-23 20:57:10,356 - DEBUG - table oqc_test_result already exists
+2021-03-23 20:57:10,356 - DEBUG - table oqc_user already exists
+2021-03-23 20:57:10,356 - DEBUG - table oqc_setting already exists
